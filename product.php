@@ -7,3 +7,4 @@
 	echo '<h2>What is your name: '. $name.' </h2>';
 
 	echo "lorem ipsum donor laporea";
+	echo 'adejare';
