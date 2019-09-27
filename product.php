@@ -8,3 +8,5 @@
 
 	echo "lorem ipsum donor laporea";
 	echo 'adejare';
+	echo 'staging';
+	echo 'Maja';
